@@ -3,7 +3,8 @@
 # Dectect Who is Online
 # Notifycations realtime
 # Activities like fb
-
+<p> Fisrt Run composer update fromm command line</p>
+<p> Then Go to pusher homepage to set up a app, insert info that app to file .env</p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
