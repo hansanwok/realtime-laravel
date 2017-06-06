@@ -1,3 +1,9 @@
+## A Realtime App Laravel with pusher with some functions
+# Realtime Chat
+# Dectect Who is Online
+# Notifycations realtime
+# Activities like fb
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
